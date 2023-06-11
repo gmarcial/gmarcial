@@ -4,7 +4,7 @@ Resolvo problemas para o alcance dos objetivos do negócio, executando soluçõe
 
 Acredito que com tecnologia, aprendizado contínuo, comprometimento, resiliência, adaptação, criatividade, gana, liderança, colaboração, compartilhamento de conhecimento e gratidão, podemos impactar positivamente a vida das pessoas à nossa volta e a construção de negócios.
 
-Sou apaixonado por tecnologia, esse sentimento nasceu no momento em que ela mudou e continua mudando a minha vida e das pessoas a minha volta continuamente.
+Sou apaixonado por tecnologia, esse sentimento nasceu no momento em que ela mudou e continua mudando a minha vida e das pessoas a minha volta até hoje.
 
 No momento meus interesses e estudos estão voltados na construção de soluções com sistemas de larga escala e aprofundamento no ecossistema da linguagem Go.
 
