@@ -10,4 +10,3 @@ No momento meus interesses e estudos estão voltados na construção de soluçõ
 
 * 👨‍💻 [Dev.to](https://dev.to/gmarcial/)
 * 🤝 [Linkedin](https://www.linkedin.com/in/guilherme-felipe-ferreira-marcial-0048a9125)
-* 💰 Atualmente na [@stone-payments](https://github.com/stone-payments) capacito a autonomia e simplicidade na gestão dos clientes ao coordenar a configuração de suas informações como SWE com o foco em backend, trabalhando diariamente com Go e Event-driven.
