@@ -6,7 +6,5 @@ Acredito que com tecnologia, aprendizado contínuo, comprometimento, resiliênci
 
 Sou apaixonado por tecnologia, esse sentimento nasceu no momento em que ela mudou e continua mudando a minha vida e das pessoas a minha volta até hoje.
 
-No momento meus interesses e estudos estão voltados na construção de soluções com sistemas de larga escala e aprofundamento no ecossistema da linguagem Go.
-
 * 👨‍💻 [Dev.to](https://dev.to/gmarcial/)
 * 🤝 [Linkedin](https://www.linkedin.com/in/guilherme-felipe-ferreira-marcial-0048a9125)
