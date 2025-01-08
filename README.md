@@ -16,5 +16,5 @@ Tudo começou quando me apaixonei por tecnologia em um curso técnico, momento e
 - **Platform**.
 - **Go**.
 
-Contato:
+#### Contato:
 * 🤝 [Linkedin](https://www.linkedin.com/in/guilherme-felipe-ferreira-marcial-0048a9125)
