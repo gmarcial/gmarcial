@@ -11,7 +11,6 @@ Impacto resolvendo problemas ponta a ponta e facilitando a área e os times envo
 Tudo começou quando me apaixonei por tecnologia em um curso técnico, momento em que ela mudou e continua mudando a minha vida e das pessoas a minha volta, hoje meus interesses são:
 - **Backend**.
 - **Distributed systems**.
-- **Stream processing**.
 - **Lead**.
 - **Platform**.
 - **Go**.
