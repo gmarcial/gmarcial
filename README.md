@@ -1,19 +1,22 @@
 ### Olá, prazer, Guilherme Marcial 🤝
 
-Impacto resolvendo problemas ponta a ponta e facilitando a área e os times envolvidos, atuando para o alcance dos objetivos, executando soluções que fornecem as capacidades e características necessárias para o negócio:
-- **Ownership**, sentimento de dono, dedicado, proativo, tomando frentes e protagonismo para continuidade, resolução e evolução.
-- **Accountability**, responsável pelas minhas atribuições e do time para continuidade da operação e sua evolução.
-- **Lead**, liderando e facilitando iniciativas, projetos e entregas junto ao time.
-- **Engineering**, todas as etapas do ciclo de vida do software ([full-cycle](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)).
-- **Mentoring and coaching**, compartilhando conhecimento, mentor, ensinando e aconselhando.
-- **Business**, criando domínio sobre negócio, trabalhando diretamente junto aos especialistas.
+Profissionalmente sou um desenvolvedor de software com o foco em Backend, contribuindo de ponta a ponta em todo ciclo de vida das soluções, liderando e facilitando nosso time, as áreas e os times envolvidos, que geram aprendizado, compartilhamento de conhecimento, tendo a oportunidade de continuamente aprender, ensinar e aconselhar.
 
-Tudo começou quando me apaixonei por tecnologia em um curso técnico, momento em que ela mudou e continua mudando a minha vida e das pessoas a minha volta, hoje meus interesses são:
-- **Backend**.
-- **Distributed systems**.
-- **Lead**.
-- **Platform**.
-- **Go**.
+Apaixonado por programação dês o curso técnico, do qual surgiu em um momento muito difícil da vida, entendendo ela como uma poderosa ferramenta de mudança e transformação que continua até hoje, onde gosto muito de resolver problemas, superar desafios, ajudar outras pessoas e contribuir para a construção de algo maior.
+
+Pessoalmente, sou muito discreto e pacato, aproveitando meu tempo livre relaxando com a família compartilhando uma boa refeição com boas conversas, estudando, ouvindo música(eclético, preferencialmente Rock, Rap ou Eletrônica), filmes e séries, jogando algum MMORPG(atualmente Albion, após Ragnarok e Priston Tale), autorreflexão ou simplesmente não fazendo nada.
+
+Atualmente trabalho como engenheiro de software no Mercado Livre em soluções fiscais LATAM, principalmente no processamento e integração de em média mais de 10 milhões de documentos. 
+
+#### Meus interesses atuais são:
+- Backend.
+- Sistemas distribuídos.
+- Go.
+- Cultura de engenharia.
+- Times e liderança.
+- Negócio.
+- Inteligência emocional e Soft skills.
 
 #### Contato:
+* 🐉 [Site/Blog](https://www.gmarcial.com)
 * 🤝 [Linkedin](https://www.linkedin.com/in/guilherme-felipe-ferreira-marcial-0048a9125)
