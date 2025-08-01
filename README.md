@@ -6,7 +6,7 @@ Apaixonado por programação dês o curso técnico, do qual surgiu em um momento
 
 Pessoalmente, sou muito discreto e pacato, aproveitando meu tempo livre relaxando com a família compartilhando uma boa refeição com boas conversas, estudando, ouvindo música(eclético, preferencialmente Rock, Rap ou Eletrônica), filmes e séries, jogando algum MMORPG(atualmente Albion, após Ragnarok e Priston Tale), autorreflexão ou simplesmente não fazendo nada.
 
-Atualmente trabalho como engenheiro de software no Mercado Livre em soluções fiscais LATAM, principalmente no processamento e integração de em média mais de 10 milhões de documentos. 
+Atualmente trabalho como engenheiro de software no Mercado Livre em soluções fiscais LATAM, principalmente no processamento e integração de em média mais de 10 milhões de documentos ao dia. 
 
 #### Meus interesses atuais são:
 - Backend.
