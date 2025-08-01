@@ -21,4 +21,4 @@ Atualmente trabalho como engenheiro de software no Mercado Livre em soluções f
 * 🐉 [Site/Blog](https://www.gmarcial.com)
 * 🤝 [Linkedin](https://www.linkedin.com/in/guilherme-felipe-ferreira-marcial-0048a9125)
 
-##### Entre em contato, vamos trocar uma ideia! 🚀
+##### Sinta-se à vontade para entrar em contato — vamos nos conectar e trocar ideia! 🚀
