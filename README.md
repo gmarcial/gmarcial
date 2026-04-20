@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Profissionalmente sou um desenvolvedor de software com o foco em Backend, contribuindo de ponta a ponta em todo ciclo de vida das soluções, liderando e facilitando nosso time, as áreas e os times envolvidos, que geram aprendizado, compartilhamento de conhecimento, tendo a oportunidade de continuamente aprender, ensinar e aconselhar.
+Profissionalmente sou um engenheiro de software com o foco em Backend, contribuindo de ponta a ponta em todo ciclo de vida das soluções, liderando e facilitando nosso time, as áreas e os times envolvidos, que geram aprendizado, compartilhamento de conhecimento, tendo a oportunidade de continuamente aprender, ensinar e aconselhar.
 
 Apaixonado por programação dês o curso técnico, do qual surgiu em um momento muito difícil da vida, entendendo ela como uma poderosa ferramenta de mudança e transformação que continua até hoje, onde gosto muito de resolver problemas, superar desafios, ajudar outras pessoas e contribuir para a construção de algo maior.
 
