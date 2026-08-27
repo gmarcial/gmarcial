@@ -1,6 +1,8 @@
 ### Olá, prazer, Guilherme Marcial 👋
 
-Profissionalmente sou engenheiro de software focado em transformar problemas de negócio complexos em sistemas distribuídos simples, resilientes, financeiramente e operacionalmente eficientes, ativos de tecnologia previsíveis e escaláveis, atuando como parceiro estratégico de decisão, combinando rigor analítico, arquitetura frugal, processos dinâmicos estruturantes e cultura de engenharia, liderando e escalando times, facilitando as áreas e os times externos envolvidos, que gera aprendizado, compartilhamento de conhecimento, tendo a oportunidade de continuamente aprender, ensinar e orientar.
+Atuo como parceiro estratégico de decisão, transformando problemas complexos de negócio em sistemas distribuídos simples, resilientes e de alta eficiência financeira.
+
+Minha abordagem combina rigor analítico, arquitetura frugal e processos estruturantes. Além do foco técnico, lidero e desenvolvo times, construindo uma cultura de engenharia, orientação ao aprendizado contínuo, autonomia e compartilhamento de conhecimento.
 
 ### Função e interesses atuais
 
